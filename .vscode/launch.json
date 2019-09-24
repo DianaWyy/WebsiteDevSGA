@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserClient",
+            "request": "launch",
+            "mainClass": "UserClient",
+            "projectName": "Codes for Assignment_107c8d50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PuppyClient",
+            "request": "launch",
+            "mainClass": "PuppyClient",
+            "projectName": "Codes for Assignment_107c8d50"
+        }
+    ]
+}
